@@ -1,10 +1,11 @@
 {
-  "name": "Laporan Piket PT. UIP",
+  "name": "Laporan Piket PT. Usaha Inti Padang",
   "short_name": "PiketUIP",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
+  "description": "Sistem Informasi & Laporan Operasional PT. Usaha Inti Padang",
   "icons": [
     {
       "src": "/icon-192.png",
